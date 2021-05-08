@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leeningzheng
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently a Growth Strategy & Analytics Consultant
+- 🌱 I’m currently a Growth Strategy & Analytics Consultant at GrowthOps
 - 📫 You can reach me at ningzheng95@gmail.com
 
 <!---
